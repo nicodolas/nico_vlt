@@ -610,3 +610,17 @@ html, body {
         top: 50%;
     }
 }
+@media only screen and (max-width: 768px) {
+    .boxTitle {
+        font-size: 24px;
+      }
+  
+    .boxTitle {
+      font-size: 24px;
+    }
+  
+    .cardValentine {
+      width: 90vw;
+      height: 70vh;
+    }
+  }
